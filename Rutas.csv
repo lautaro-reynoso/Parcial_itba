@@ -1,0 +1,4 @@
+TipoAeronave;	Km; 	Observaciones
+avion transoceanico;	10000 a 25000;	entre distintos continentes
+avion continental;	1000 a 10000;	dentro de un mismo continente
+avioneta;	100 a 1000;	dentro de un mismo pais

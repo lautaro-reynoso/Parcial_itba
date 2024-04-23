@@ -1,0 +1,17 @@
+Tipo;	Descripcion
+Climatico;	Huracan
+Climatico;	Tornado
+Climatico;	Terremoto
+Climatico;	Tsunami
+Climatico;	Nube volcanica
+Terrorismo;	Secuestro del avion
+Terrorismo;	Amenaza de Bomba
+Terrorismo;	Aeropuerto Tomado 
+Politico;	Huelga Aeropuerto 
+Politico;	Huelga Pilotos
+Politico;	paro de la UTA
+Fallas en la Aeronave;	Faltante de Combustible
+Fallas en la Aeronave;	Falla Alerones 
+Fallas en la Aeronave;	Falla Altimetro
+Fallas en la Aeronave;	Falla en la Comunicacion
+Sin desastre;	Vuelo Normal
